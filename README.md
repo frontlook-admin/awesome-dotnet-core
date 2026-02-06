@@ -505,6 +505,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Mathematics
 * [AutoDiff](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
+* [MathParser.org-mXparser](https://github.com/mariuszgromada/MathParser.org-mXparser) - A Multiplatform Library That Can Do Almost Any
+Mathematical Calculations. Can also do mathematical scripting.
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 
@@ -894,6 +896,8 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 8 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 18, React 18, Vue 3, BFF with YARP, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, Entity Framework Core, OpenTelemetry, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud Services (Azure, AWS, GCP).
   * [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
   * [StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
+* SPAs
+  * [Blazing Pizza workshop](https://aka.ms/blazorworkshop) - Pizza ordering website build with Blazor, a single-page app framework for building client-side web apps using .NET and WebAssembly.
  
 ## Articles
 * Basic knowledge
